@@ -1,4 +1,4 @@
-#OpenCore Config on Acer Nitro 5 AN515-52
+# OpenCore Config on Acer Nitro 5 AN515-52
 
 ![Screenshot](/Docs/screen.jpg)
 
